@@ -11,26 +11,32 @@
 }
 
 body {
-    font-family: var(--text-font-family)
+    font-family: var(--text-font-family);
+    color: var(--slate-colour);
+    background-color: var(--white-color);
 }
 
 .logo {
-    color: var(--navy-blue-color);
-    font-family: Raleway;
+    color: var(--iris-color);
+    font-family: var(--logo-font-family);
     font-size: 18px;
     font-style: normal;
     font-weight: 800;
-    line-height: 116.667%; 
+    line-height: 1.17%; 
     letter-spacing: 0.54px;
     text-transform: uppercase;
     text-decoration: none;
 }
 
 .logo-color {
-    color: var(--iris-color);
+    font-family: var(--logo-font-family);
+    color: var(--navy-blue-color);
+    line-height: 1.17%;
 }
 
 .list {
+    color: var(--slate-colour);
+    background-color: var(--white-color);
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
@@ -43,7 +49,7 @@ body {
 
 .link:hover,
 .link:focus {
-    color: var(--navy-blue-color);
+    color: var(--ocean-color);
     text-decoration: none;
 }
 
@@ -77,17 +83,19 @@ body {
     color: var(--white-color);
     background: var(--IRIS, #4D5AE5);
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
-    font-family: Roboto;
+    font-family: var(--text-font-family);
+    font-size: 16px;
     font-style: normal;
+    font-weight: 500;
     line-height: 150%; 
-    letter-spacing: 0.64px;
+    letter-spacing: 0.04px;
     border-radius: 4px;
     cursor: pointer;
     }
 
 .hero-button:hover,
 .hero-button:focus {
-    color: var(--navy-blue-color);
+    color: var(--ocean-color);
 }
 
 .section-content {
@@ -142,12 +150,12 @@ body {
     border: 1px solid var(--cornflower-color);
     background: var(--cloud-color);
     text-align: center;
-    font-family: Roboto;
+    font-family: var(--text-font-family);
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 150%; 
-    letter-spacing: 0.64px;
+    line-height: 1.5; 
+    letter-spacing: 0.04px;
     border-radius: 4px;
 }
 
