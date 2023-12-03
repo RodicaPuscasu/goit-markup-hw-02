@@ -28,19 +28,6 @@ body {
     text-decoration: none;
 }
 
-.list {
-    color: #434455;
-    background-color: #FFFFFFFF;
-    font-family: "Roboto", sans-serif;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 1.5; 
-    letter-spacing: 0.02em;
-    list-style-type: none;
-    text-decoration: none;
-}
-
 .link:hover,
 .link:focus {
     color: #404BBF;
@@ -142,14 +129,21 @@ body {
     color: var(--iris-color);
     border: 1px solid var(--cornflower-color);
     background: var(--cloud-color);
-    text-align: center;
-    font-family: var(--text-font-family);
+    letter-spacing: 0.04em;
+    border-radius: 4px;
+}
+
+.list {
+    color: #434455;
+    background-color: #FFFFFFFF;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 1.5; 
-    letter-spacing: 0.04em;
-    border-radius: 4px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    list-style-type: none;
+    text-decoration: none;
 }
 
 .filter-button:hover,
