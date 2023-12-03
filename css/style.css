@@ -17,6 +17,7 @@ body {
 }
 
 .logo {
+    color: var(--iris-color)
     font-size: 18px;
     font-style: normal;
     font-weight: 800;
@@ -29,6 +30,7 @@ body {
 .logo-color {
     font-family: var(--logo-font-family);
     color: #f4f4f4fd;
+    color: var(--navy-blue-color)
 }
 
 .list {
