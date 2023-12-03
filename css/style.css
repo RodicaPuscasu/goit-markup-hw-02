@@ -18,7 +18,7 @@ body {
 
 .logo {
     font-family: "Raleway", sans-serif;
-    color: #4d5ae5;
+    color: var(--iris-color);
     font-size: 18px;
     font-style: normal;
     font-weight: 800;
@@ -26,12 +26,6 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
-}
-
-.logo-color {
-    font-family: var(--logo-font-family);
-    color: #f4f4f4fd;
-    color: var(--navy-blue-color);
 }
 
 .list {
@@ -59,14 +53,7 @@ body {
 }
 
 .contacts {
-    font-family: "Roboto", sans-serif;
-    font-size: 16px;
-    font-style: normal;
     font-weight: 400;
-    line-height: 150%; 
-    letter-spacing: 0.32px;
-    list-style-type: none;
-    text-decoration: none;
 }
 
 .hero-section {
