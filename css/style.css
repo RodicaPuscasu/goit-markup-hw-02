@@ -125,6 +125,7 @@ body {
 
 .section-title {
     color: var(--navy-blue-color);
+    background-color: var(--white-color);
     text-align: center;
     font-family: Roboto;
     font-size: 36px;
@@ -147,7 +148,7 @@ body {
 }
 
 .our-team-section {
-    background-color: #FFFFFFFF;
+    background-color: var(--cloud-color) ;
 }
 
 .filter-button {
