@@ -30,7 +30,7 @@ body {
 
 .logo-color {
     font-family: var(--logo-font-family);
-    color: var(--navy-blue-color);
+    color: #f4f4f4fd;
 }
 
 .list {
