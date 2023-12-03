@@ -18,7 +18,7 @@ body {
 
 .logo {
     font-family: "Raleway",sans-serif;
-    color: #4D5AE5;
+    color: #4d5ae5;
     font-size: 18px;
     font-style: normal;
     font-weight: 800;
@@ -49,12 +49,11 @@ body {
 
 .link:hover,
 .link:focus {
-    color: #2E2F42;
+    color: #404BBF;
     text-decoration: none;
 }
 
 .link {
-    color: #434455;
     text-decoration: none;
 }
 
