@@ -100,7 +100,7 @@ body {
 .hero-button:hover,
 .hero-button:focus {
     color: var(--ocean-color);
-    background-color: var(--ocean-color);
+    background-color: #404bbf;
 }
 
 .section-content {
