@@ -31,7 +31,6 @@ body {
 .logo-color {
     font-family: var(--logo-font-family);
     color: var(--navy-blue-color);
-    line-height: 1.17;
 }
 
 .list {
