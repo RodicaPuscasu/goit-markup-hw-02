@@ -31,6 +31,7 @@ body {
 .logo-color {
     font-family: var(--logo-font-family);
     color: var(--navy-blue-color);
+    color: var(--iris-color);
 }
 
 .list {
