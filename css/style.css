@@ -34,7 +34,7 @@ body {
 }
 
 .list {
-    color: var(--slate-colour);
+    color: #434455;
     background-color: #FFFFFFFF;
     font-family: Roboto;
     font-size: 16px;
