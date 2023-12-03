@@ -136,7 +136,7 @@ body {
 }
 
 .footer-content {
-    color: var(--cloud-color);
+    color: #2E2F42;
     background-color: var(--navy-blue-color);
     font-family: Roboto;
     font-size: 16px;
