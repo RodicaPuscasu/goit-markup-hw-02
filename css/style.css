@@ -17,6 +17,7 @@ body {
 }
 
 .logo {
+    font-family: "Raleway",sans-serif;
     color: var(--iris-color)
     font-size: 18px;
     font-style: normal;
@@ -53,6 +54,7 @@ body {
 }
 
 .link {
+    color: var(--navy-blue-color);
     text-decoration: none;
 }
 
