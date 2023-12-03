@@ -35,7 +35,7 @@ body {
 
 .list {
     color: var(--slate-colour);
-    background-color: var(--white-color);
+    background-color: #FFFFFF;
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
@@ -148,7 +148,7 @@ body {
 }
 
 .our-team-section {
-    background-color: var(--cloud-color) ;
+    background-color: #F4F4FD ;
 }
 
 .filter-button {
