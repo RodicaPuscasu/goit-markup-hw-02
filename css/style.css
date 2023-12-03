@@ -49,7 +49,7 @@ body {
 
 .link:hover,
 .link:focus {
-    color: var(--ocean-color);
+    color: #2E2F42;
     text-decoration: none;
 }
 
