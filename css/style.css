@@ -125,7 +125,7 @@ body {
 
 .section-title {
     color: var(--navy-blue-color);
-    background-color: #FFFFFF;
+    background-color: var(--white-color);
     text-align: center;
     font-family: Roboto;
     font-size: 36px;
